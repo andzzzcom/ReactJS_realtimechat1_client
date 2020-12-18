@@ -1,0 +1,16 @@
+.containerLogin{
+    padding: 10;
+    border:1px solid gainsboro;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.headerText{
+    margin-bottom: 20px;
+}
+
+.loginBtn{
+    width:'100%'
+}

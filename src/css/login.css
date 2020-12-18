@@ -1,0 +1,47 @@
+.containerHome{
+    padding: 10;
+    border:1px solid gainsboro;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.containerLogin{
+    padding: 10;
+    border:1px solid gainsboro;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.containerChat{
+    padding: 10;
+    border:1px solid #e1f5f5;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left:25px;
+    width:'100%';
+}
+
+.headerText{
+    margin-bottom: 20px;
+}
+
+.loginBtn{
+    width:'100%'
+}
+
+.tes{
+    background-color: 'red';
+}
+
+.titleHome{
+    font-size: 18px;
+    color:blue;
+    font-weight: bold;
+}
